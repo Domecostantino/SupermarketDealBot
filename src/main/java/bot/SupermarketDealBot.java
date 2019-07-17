@@ -491,7 +491,7 @@ public class SupermarketDealBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-	return "661272299:AAEbsANpjquuHyXc3M88WDKqeR_NZveS5J0";
+	return "-----------------------------------";
     }
 
     @Override
